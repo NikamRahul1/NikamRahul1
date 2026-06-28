@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikamrahul1&label=Profile%20views&color=0e75b6&style=flat" alt="rahulnikam" /> </p>
 
-- 🌱 I’m currently learning **Nodejs, Advance programming, system design** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently learning **Java, Spring boot, Advance programming, system design** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 💬 Ask me about **Spring boot, NoSQL, and microservices.**
 
