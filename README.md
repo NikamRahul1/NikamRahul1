@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10oCQM2HWbA1dlLH0A1JqYQwxJr3VbmVl/view?usp=drive_link)
 
-- ⚡ Fun fact **Can sleep all day and work all night**
+- ⚡ Fun fact **Can sleep all day and work all night.**
 
 
 
